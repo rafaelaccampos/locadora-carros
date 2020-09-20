@@ -1,3 +1,5 @@
+using System;
+
 namespace Locadora.Entities.Model
 {
   public class Model

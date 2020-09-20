@@ -1,3 +1,5 @@
+using System;
+
 namespace Locadora.Entities.User
 {
   public class User

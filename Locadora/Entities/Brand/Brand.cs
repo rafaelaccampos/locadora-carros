@@ -1,3 +1,5 @@
+using System;
+
 namespace Locadora.Entities.Brand
 {
   public class Brand

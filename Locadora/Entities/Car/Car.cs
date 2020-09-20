@@ -7,7 +7,7 @@ namespace Locadora.Entities.Car
     public Car(string model,
                string brand,
                string color,
-               string price)
+               decimal price)
     {
       Model = model ?? throw new ArgumentNullException("O campo nome é obrigatório"); ;
       Brand = brand;
